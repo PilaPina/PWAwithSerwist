@@ -1,0 +1,49 @@
+
+{
+    "name": "MY PWA",
+    "short_name": "serw-pwa",
+    "description": "A Progressive Web App made with Next.js",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#222222",
+    "icons": [
+      {
+        "src": "/192x192.svg",
+        "sizes": "192x192",
+        "type": "image/svg",
+        "purpose": "any"
+      },
+      {
+        "src": "/192x192.svg",
+        "sizes": "192x192",
+        "type": "image/svg",
+        "purpose": "maskable"
+      },
+      {
+        "src": "/384x384.svg",
+        "sizes": "384x384",
+        "type": "image/svg",
+        "purpose": "any"
+      },
+      {
+        "src": "/512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      },
+      {
+        "src": "/apple-touch-icon.png",  
+        "sizes": "180x180",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ],
+    "protocol_handlers": [
+      {
+        "protocol": "web+myprotocol", 
+        "url": "/protocolhandler/%s"
+      }
+    ]
+  }
+  
