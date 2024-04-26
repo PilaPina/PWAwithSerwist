@@ -11,7 +11,11 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "next": "14.2.3",
+    "@serwist/next": "^9.0.2",
+    "@serwist/precaching": "^9.0.2",
+    "@serwist/sw": "^9.0.2",
+    "axios": "^1.6.8"
   },
   "devDependencies": {
     "typescript": "^5",
@@ -19,7 +23,8 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.2.3"
+    "eslint-config-next": "14.2.3",
+    "serwist": "^9.0.2"
   },
   "license": "MIT"
 }

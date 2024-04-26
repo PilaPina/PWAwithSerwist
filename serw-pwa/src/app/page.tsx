@@ -49,7 +49,7 @@ export default function Home() {
           </p>
         </Link>
 
-        {/*<a
+        {/* <a
           // href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           className={styles.card}
           rel="noopener noreferrer"
@@ -62,7 +62,7 @@ export default function Home() {
             Plus Apple was until february being annoying about wanting to support service workers in iOs. 
             But it&apos;s all good now!
           </p>
-        </a>
+        </a> */}
 
         <Link
           href="/weather"
@@ -75,7 +75,7 @@ export default function Home() {
           <p>Here is my weather API.</p>
         </Link>
 
-        <Link
+        {/* <Link
           href="/not-found"
           className={styles.card}
           rel="noopener noreferrer"
@@ -86,7 +86,7 @@ export default function Home() {
           <p>
             This WILL be my News API - but it&apos;s not connected yet. 
           </p>
-        </Link>*/}
+        </Link> */}
       </div> 
     </main>
   );
