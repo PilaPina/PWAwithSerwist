@@ -4,10 +4,10 @@
 This is my second try at creating a progressive web application, or a PWA as they are often referred to. 
 In this code you'll find a simple PWA that has all the basics. I used a module from Serwist to integrate PWA support into my this next.js project. In my first try, my api didn't work properly and my service workers weren't showing up. I was using next-pwa module in that project and that has become redundant. I found serwist and it all came toghether after that. <Br/>Now it fully works. It installs, is caches the whole lot and gets full marks with fireworks(!) in the lighthouse test for PWA's.
 
-<strong>What is a PWA?</strong><Br/>
-PWA's are not a website, not a desktop application and not an app. They are something in between. They can behave like an app, or a website, whichever you prefer.<br/>
+<strong>What is a PWA?</strong><Br/> 
+PWA's are not a website, not a desktop application and not an app. They are something in between. They can behave like an app, or a website, whichever you prefer. :)<br/>
 PWAs are built with all the powers of web technologies but can at the same time give users an experience that feels like using a native app on systems like iOS or Android. You use the same code base for all devices. Fully cross-platform and no app store needed. <br/>
-They bring together the best of both worlds - the wide accessibility of traditional websites and the perks of platform-specific apps, such as being able to work offline.
+They bring together the best of both world - the wide accessibility of traditional websites and the perks of platform-specific apps, such as being able to work offline.
 PWA's improve user engagement. They are responsive and fast, even on slow networks.
 
 Here are some cool key factors:
