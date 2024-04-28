@@ -2,7 +2,7 @@
 
 <strong>ABOUT THIS PROJECT:</strong><Br/>
 This is my second try at creating a progressive web application, or a PWA as they are often referred to. 
-In this code you'll find a simple PWA that has all the basics. I used a module from Serwist to integrate PWA support into my this next.js project. In my first try, my api didn't work properly and my service workers weren't showing up. I was using next-pwa module in that project and that has become redundant. I found serwist and it all came toghether after that. Now it fully works. It installs, is caches the whole lot and gets full marks with fireworks(!) in the lighthouse test for PWA's.
+In this code you'll find a simple PWA that has all the basics. I used a module from Serwist to integrate PWA support into my this next.js project. In my first try, my api didn't work properly and my service workers weren't showing up. I was using next-pwa module in that project and that has become redundant. I found serwist and it all came toghether after that. <Br/>Now it fully works. It installs, is caches the whole lot and gets full marks with fireworks(!) in the lighthouse test for PWA's.
 
 <strong>What is a PWA?</strong><Br/>
 PWA's are not a website, not a desktop application and not an app. They are something in between. They can behave like an app, or a website, whichever you prefer.<br/>
